@@ -14,7 +14,7 @@ This project consists of two main components:
 # Setting Up the Project
 
 To set up the project locally:
-
+ 
 1. Clone the repository:
    ```
    git clone [repository-url]
