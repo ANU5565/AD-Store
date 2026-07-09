@@ -10,7 +10,7 @@ This project consists of two main components:
 **Frontend (FE)**
   * **File:** FE-002  
   * **Description:** Includes front-end scripts, HTML templates, and any necessary libraries or frameworks to make the UI work seamlessly with the backend.
-
+ 
 # Setting Up the Project
 
 To set up the project locally:
