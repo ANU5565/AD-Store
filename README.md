@@ -1,6 +1,6 @@
 ```
 # Project Structure
-
+ 
 This project consists of two main components:
 
 **Backend (BE)**
