@@ -4,7 +4,7 @@
 This project consists of two main components:
 
 **Backend (BE)**
-  * **File:** BE-001  
+  * **File:** BE-001   
   * **Description:** Contains server-side code for processing user data, managing database interactions and API endpoints.
 
 **Frontend (FE)**
